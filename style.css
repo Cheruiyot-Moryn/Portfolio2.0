@@ -28,6 +28,11 @@
 #contact {
     padding-bottom: 4rem;
 }
+
+#formfields{
+    align-items: right;
+}
+
 /* about section image css */
 .imageAboutPage {
     width: 100%;
