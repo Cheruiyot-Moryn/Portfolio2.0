@@ -22,7 +22,7 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: white;
+    color: black;
 }
 
 #contact {
@@ -34,7 +34,7 @@
 }
 
 .experienceText.card {
-    height: 280px;
+    height: 320px;
     cursor: pointer;
   }
 .experienceIcon {
