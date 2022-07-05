@@ -24,7 +24,7 @@
 * An access to the Internet
 
 ### Installation Process
-Here is the live link .Enjoy! https://Cheruiyot-Moryn.github.io/portfolio2.0/
+Here is the live link .Enjoy! https://cheruiyot-moryn.github.io/Portfolio2.0/
 * At the right side my of my repo click fork to fork the portfolio website
 * At the code section clone the link and paste it on your pc
 * open the code using vs code or your preferred editor 
