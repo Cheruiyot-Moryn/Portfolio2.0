@@ -37,13 +37,16 @@
 .imageAboutPage {
     width: 100%;
 }
-
+.portfolioText.card {
+    height: 420px;
+    cursor: pointer;
+  }
 .experienceText.card {
-    height: 320px;
+    height: 420px;
     cursor: pointer;
   }
 .experienceIcon {
-    font-size: 36px;
+    font-size: 25px;
     text-align: center;
     width: 100%;
 }
